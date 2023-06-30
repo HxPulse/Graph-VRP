@@ -21,7 +21,8 @@ We're using real life data of the largest french cities. The data itself is a gr
 
 These are graph algorithms made to find the shortest path between two vertices (the least amount of edges to go from one vertex to another, if the edges have different values, then the lowest value)
 
-More info about :
+More info about :  
+
 - Dijkstra : https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm#:~:text=Dijkstra's%20algorithm%20(%2F%CB%88da%C9%AA,Dijkstra's%20algorithm
 - A* : https://en.wikipedia.org/wiki/A*_search_algorithm
 
